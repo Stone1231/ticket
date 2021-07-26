@@ -1,0 +1,6 @@
+[submodule "ticket-be"]
+	path = ticket-be
+	url = https://github.com/Stone1231/ticket-be.git
+[submodule "ticket-fe"]
+	path = ticket-fe
+	url = https://github.com/Stone1231/ticket-fe.git
